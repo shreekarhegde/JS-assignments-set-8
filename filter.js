@@ -7,5 +7,4 @@ function filterValues(array){
     })
     return result;
 }
-
 console.log(filterValues([58, '', 'abcd', true, null, false, 0]));
